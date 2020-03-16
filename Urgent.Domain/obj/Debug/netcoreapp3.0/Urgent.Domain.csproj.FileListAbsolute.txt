@@ -1,0 +1,8 @@
+C:\repos\UrgentTest\Urgent.Domain\bin\Debug\netcoreapp3.0\Urgent.Domain.deps.json
+C:\repos\UrgentTest\Urgent.Domain\bin\Debug\netcoreapp3.0\Urgent.Domain.dll
+C:\repos\UrgentTest\Urgent.Domain\bin\Debug\netcoreapp3.0\Urgent.Domain.pdb
+C:\repos\UrgentTest\Urgent.Domain\obj\Debug\netcoreapp3.0\Urgent.Domain.csprojAssemblyReference.cache
+C:\repos\UrgentTest\Urgent.Domain\obj\Debug\netcoreapp3.0\Urgent.Domain.AssemblyInfoInputs.cache
+C:\repos\UrgentTest\Urgent.Domain\obj\Debug\netcoreapp3.0\Urgent.Domain.AssemblyInfo.cs
+C:\repos\UrgentTest\Urgent.Domain\obj\Debug\netcoreapp3.0\Urgent.Domain.dll
+C:\repos\UrgentTest\Urgent.Domain\obj\Debug\netcoreapp3.0\Urgent.Domain.pdb

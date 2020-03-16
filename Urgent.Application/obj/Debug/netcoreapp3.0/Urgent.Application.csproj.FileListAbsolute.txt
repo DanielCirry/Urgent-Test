@@ -1,0 +1,16 @@
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Urgent.Application.exe
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Urgent.Application.deps.json
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Urgent.Application.runtimeconfig.json
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Urgent.Application.runtimeconfig.dev.json
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Urgent.Application.dll
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Urgent.Application.pdb
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Urgent.Domain.dll
+C:\repos\UrgentTest\Urgent.Application\bin\Debug\netcoreapp3.0\Urgent.Domain.pdb
+C:\repos\UrgentTest\Urgent.Application\obj\Debug\netcoreapp3.0\Urgent.Application.csprojAssemblyReference.cache
+C:\repos\UrgentTest\Urgent.Application\obj\Debug\netcoreapp3.0\Urgent.Application.AssemblyInfoInputs.cache
+C:\repos\UrgentTest\Urgent.Application\obj\Debug\netcoreapp3.0\Urgent.Application.AssemblyInfo.cs
+C:\repos\UrgentTest\Urgent.Application\obj\Debug\netcoreapp3.0\Urgent.Application.csproj.CopyComplete
+C:\repos\UrgentTest\Urgent.Application\obj\Debug\netcoreapp3.0\Urgent.Application.dll
+C:\repos\UrgentTest\Urgent.Application\obj\Debug\netcoreapp3.0\Urgent.Application.pdb
